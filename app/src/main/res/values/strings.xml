@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_location_permission">Location permission</string>
+    <string name="text_location_permission">Location permission required</string>
+    <string name="ok">OK</string>
+    <string name="gps_network_not_enabled">gps network must be enabled</string>
+    <string name="enable">enable</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="temp_converter">%1$s°C/%2$s°C</string>
+    <string name="celsius_converter">%1$s°C</string>
+    <string name="speed_converter">%1$skm/h</string>
+    <string name="pressure_converter">%1$shPa</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="daily_desc_converter">%1$s * %2$s</string>
+    <string name="no_internet_message">Please, check your internet connection or restart the app</string>
+</resources>
