@@ -5,7 +5,6 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.weather.arch.db.WeatherDao
-import com.example.weather.arch.db.WeatherDb
 import com.example.weather.model.WeatherResponse
 import com.example.weather.net.WeatherApi
 import kotlinx.coroutines.launch

@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.RequestManager
-import com.bumptech.glide.request.target.Target.SIZE_ORIGINAL
 import com.example.weather.R
 import com.example.weather.extensions.inflate
 import com.example.weather.model.WeatherInfoCurrent
